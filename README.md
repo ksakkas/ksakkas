@@ -1,4 +1,11 @@
-### Hi there 👋
+### Konstantinos Sakkas - Κωνσταντίνος Σακκάς
+#
+### OBJECTS OF EMPLOYMENT
+* Website Design and Development and Databases 
+* Hardware Programming
+* Digital Circuit Design
+* UNITY Applications Development 
+
 
 <!--
 **ksakkas/ksakkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
