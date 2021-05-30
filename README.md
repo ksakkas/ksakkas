@@ -1,5 +1,5 @@
-### Konstantinos Sakkas - Κωνσταντίνος Σακκάς
-#
+## Konstantinos Sakkas - Κωνσταντίνος Σακκάς
+<hr>
 ### OBJECTS OF EMPLOYMENT
 * Website Design and Development and Databases 
 * Hardware Programming
