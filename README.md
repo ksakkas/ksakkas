@@ -5,6 +5,8 @@
 * Hardware Programming
 * Digital Circuit Design
 * UNITY Applications Development 
+* Development and Design of Virtual Mixed and Augmented Reality Applications
+
 
 
 <!--
